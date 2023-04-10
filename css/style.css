@@ -1,0 +1,58 @@
+
+:root{
+    --font-family-primary:'comfortaa',cursive;
+    --primary-color:white;
+    --secondary-color:black;
+    --tertiary-color:blue;
+}
+
+
+
+
+.carrosel-box{
+    box-sizing: border-box;
+}
+.imagem-carrossel-um{
+    object-fit: cover;
+    object-position: 0% 45%;
+    height: 440px;
+       
+}
+
+.imagem-carrossel-dois{
+    object-fit: cover;
+    object-position: 0% 45%;
+    height: 440px;
+     
+}
+.imagem-carrossel-tres{
+    object-fit: cover;
+    object-position: 0% 68%;
+    height: 440px;
+     
+}
+.box__grid_botton{
+    margin-top: 25px;
+    text-align: center;
+}
+.box__card__top{
+    text-align: center;
+}
+.box__card__bottom{
+    padding: 0;
+    height: 25rem;
+    
+}
+
+.img__card{
+    height: 200px;
+}
+.img__card2{
+    height: 100px;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    
+}
+.texto__card{
+    margin-bottom: 100px !important;
+}
